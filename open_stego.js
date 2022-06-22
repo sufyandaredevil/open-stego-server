@@ -1,5 +1,3 @@
-//before running the server, make sure to create a folder called "uploads" in the same directory as the index.js file
-
 const fs = require("fs")
 const express = require("express")
 const app = express()
